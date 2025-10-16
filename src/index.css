@@ -1,0 +1,120 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  
+
+  background: linear-gradient(45deg, #0A0922, #2d2a86, #0f2027);
+}
+
+.menu{
+ background-color: #100f36;
+ height: 50px;
+ display: flex;
+ justify-content: center;
+}
+.ull{
+ list-style: none;
+ display: flex;
+ justify-content: center;
+ gap: 20px;
+ color: aliceblue;
+}
+.aa{
+   color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    color:  #0d93d6;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.hc{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.hb{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+.hc{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.hb{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+.PP{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   flex-direction: row;
+   
+}
+.e{
+    color: #0d93d6;
+    font-size: 30px;
+    padding-right: 10px;
+}
+.d{
+    color: #0d93d6;
+    font-size: 30px;
+    padding-left: 10px;
+}
+.dd{
+    color: #0d93d6;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.ee{
+      color: #0d93d6;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.cont{
+  padding-left: 160px ;
+  padding-top: 140px;
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    height: 70vh;
+    
+}
+
+.sobre{
+    margin: 1rem;
+    height: 100vh;
+}
+
+
+.skils-table{
+    border: 2px solid #ffffff;
+}
+
+span{
+    color: #0d93d6;
+}
